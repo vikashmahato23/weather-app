@@ -7,9 +7,9 @@ data on humidity, feels like, as well as the current time of location,
 built-in map allowing users to monitor the weather in a particular region or a specific country in real-time.
 
 **SEARCH PAGE:**
-
-![Search Page Image](./readme%20Images/searchPage.jpg)
+<!-- 
+![Search Page Image](./readme%20Images/searchPage.jpg) -->
 
 **WEATHER PAGE:**
 
-![Weather Page Image](./readme%20Images/weather.png)
+<!-- ![Weather Page Image](./readme%20Images/weather.png) -->
